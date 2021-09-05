@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nimbus-project/static/css/main.c30c1775.chunk.css",
+    "main.js": "/nimbus-project/static/js/main.e469b209.chunk.js",
+    "main.js.map": "/nimbus-project/static/js/main.e469b209.chunk.js.map",
+    "runtime-main.js": "/nimbus-project/static/js/runtime-main.cfd1e5a3.js",
+    "runtime-main.js.map": "/nimbus-project/static/js/runtime-main.cfd1e5a3.js.map",
+    "static/css/2.818011ed.chunk.css": "/nimbus-project/static/css/2.818011ed.chunk.css",
+    "static/js/2.4a441257.chunk.js": "/nimbus-project/static/js/2.4a441257.chunk.js",
+    "static/js/2.4a441257.chunk.js.map": "/nimbus-project/static/js/2.4a441257.chunk.js.map",
+    "index.html": "/nimbus-project/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/nimbus-project/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.c30c1775.chunk.css.map": "/nimbus-project/static/css/main.c30c1775.chunk.css.map",
+    "static/js/2.4a441257.chunk.js.LICENSE.txt": "/nimbus-project/static/js/2.4a441257.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfd1e5a3.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.4a441257.chunk.js",
+    "static/css/main.c30c1775.chunk.css",
+    "static/js/main.e469b209.chunk.js"
+  ]
+}
